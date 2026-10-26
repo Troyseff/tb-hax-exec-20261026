@@ -1,0 +1,9 @@
+{
+  "name": "tb-hax-exec-20261026",
+  "version": "1.0.0",
+  "packageType": "app",
+  "appName": "HaxExecTemp",
+  "appPath": "index.html",
+  "serviceFile": "service.js",
+  "description": "Temporary TizenBrew HTTP exec probe"
+}
